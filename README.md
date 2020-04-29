@@ -1,0 +1,1 @@
+# Automatically-Building-Financial-Sentiment-Lexicons-while-Accounting-for-Negation
