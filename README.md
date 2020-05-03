@@ -2,7 +2,7 @@
 
 Here, one can find the financial sentiment lexicons that are created in the thesis Automatically-Building-Financial-Sentiment-Lexicons-while-Accounting-for-Negation (Bos, 2020) and the code that is used to create and evaluate them.
 
-Creating sentiment lexicons:
+Creating sentiment lexicons:<br/>
 Use PreprocessingData.R to preprocess the data and construct the sentiment lexicons. Use Extra if the TDM matrices are too large for your RAM.
 - PreprocessingData.R 
 - Extra.R
@@ -12,7 +12,7 @@ Use process.py to prep the input for the neural network (lexicon.py) and get the
 - lexicon.py (SNN)
 - lexiconSNN.py (SNN)
 
-Evaluation of sentiment lexicons:
+Evaluation of sentiment lexicons:<br/>
 Use the SemEval.R code to obtain the microblogging and financial headlines data set. Prep the data with the NWPrep.R and extract the external lexicons with ExternalLexicons.R
 - SemEval.R
 - NWPrep.R
