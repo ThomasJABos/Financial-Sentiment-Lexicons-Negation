@@ -25,7 +25,8 @@ Use the unsupervised.R script for the unsupervised evaluation, the supervisedPre
 - btc.R
 
 The constructed weighted PMI sentiment lexicons can be found in the folder Financial Sentiment Lexicons.
-Please reference the paper if you use any of the financial sentiment lexicons or the code/
+Please reference the paper if you use any of the financial sentiment lexicons or the code.
+
 Bos, T. Frasincar, F. 2020. 
 Automatically Building Financial Sentiment Lexicons while Accounting for Negation.
 
